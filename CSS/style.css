@@ -51,6 +51,7 @@ img{
 .row {
     padding: 0px 20px;
     display: table;
+    width: 100%;
 }
 
 section{
